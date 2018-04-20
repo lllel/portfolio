@@ -309,7 +309,7 @@ body {
 .header-main__link:active,
 .works__last-work:active,
 .footer-main__email:active,
-.footer-main__link:active,
+.footer-main__link img:active,
 .about-me__user-link:active {
   opacity: 0.2;
   transition: 0.3s ease;
