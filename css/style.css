@@ -329,6 +329,9 @@ body {
 
   .header-main {
     width: 100%;
+  }
+
+  .header-main__wrapper {
     max-width: 1200px;
     margin: 0 auto;
   }
